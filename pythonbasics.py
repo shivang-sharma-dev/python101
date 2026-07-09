@@ -23,3 +23,5 @@ print('Hello World')
 #We can also use escape characters to include special characters in strings
 print("hello\nworld")
 print("DevOps\nis\nawesome")
+ 
+print()
