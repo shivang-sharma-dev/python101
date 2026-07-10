@@ -24,4 +24,27 @@ print('Hello World')
 print("hello\nworld")
 print("DevOps\nis\nawesome")
  
-print()
+print("hello\tworld")
+print("DevOps\t is\tawesome")
+
+print("Dog\n Cat\n horse\n Cow\n Sheep")
+
+#type function used to check the data type of a variable or value
+print(type("Hello World"))
+print(type(3.16))
+print(type(3))
+print(type(True))
+print(type(False))
+print(type(3==3))
+print(type([1,2,3]))
+print(type((1,2,3)))
+print(type({"name":"John","age":30}))
+print(type({1,2,3}))
+
+
+#none Data type is used to represent the absence of a value or a null value
+print(type(None))
+print(type("") is None)
+print(type(0) is None)
+print(None is None)
+
